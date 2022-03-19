@@ -7,5 +7,5 @@ struct Student {
     var attendance:Bool
 }
 
-var Maryam = Student(name: "maryam", age: 16, grade: 99, attendance: true)
+var maryam = Student(name: "maryam", age: 16, grade: 99, attendance: true)
 
